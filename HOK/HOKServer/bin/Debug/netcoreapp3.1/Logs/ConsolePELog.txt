@@ -1,0 +1,34 @@
+[L]# 2024/10/26  11:03:29--485 ThreadID:1 >>  CacheSvc Init Done
+[L]# 2024/10/26  11:03:29--509 ThreadID:1 >>  TimerSvc Init Done
+[L]# 2024/10/26  11:03:29--550 ThreadID:1 >>  Server Start...
+[L]# 2024/10/26  11:03:29--563 ThreadID:1 >>  NetSvc Init Done.
+[L]# 2024/10/26  11:03:29--565 ThreadID:1 >>  LoginSys Init Done
+[L]# 2024/10/26  11:03:29--566 ThreadID:1 >>  MabthchSys Init Done
+[L]# 2024/10/26  11:03:29--568 ThreadID:1 >>  RoomSys Init Done
+[L]# 2024/10/26  11:03:29--568 ThreadID:1 >>  ServerRoot Init Done
+[L]# 2024/10/26  11:03:57--826 ThreadID:6 >>  Client Online, Sid:1 
+[L]# 2024/10/26  11:03:57--877 ThreadID:8 >>  RcvPack CMD:ReqLogin 
+[L]# 2024/10/26  11:03:58--925 ThreadID:11 >>  RcvPack CMD:ReqMatch 
+[L]# 2024/10/26  11:03:59--496 ThreadID:7 >>  Client Online, Sid:2 
+[L]# 2024/10/26  11:03:59--497 ThreadID:9 >>  RcvPack CMD:ReqLogin 
+[L]# 2024/10/26  11:04:00--298 ThreadID:12 >>  RcvPack CMD:ReqMatch 
+[L]# 2024/10/26  11:04:01--092 ThreadID:12 >>  RcvPack CMD:SndConfirm 
+[L]# 2024/10/26  11:04:01--530 ThreadID:11 >>  RcvPack CMD:SndConfirm 
+[L]# 2024/10/26  11:04:01--546 ThreadID:1 >>  RoomID:1 所有玩家确认完成,进入英雄选择.
+[L]# 2024/10/26  11:04:03--763 ThreadID:9 >>  RcvPack CMD:SndSelect 
+[L]# 2024/10/26  11:04:05--306 ThreadID:12 >>  RcvPack CMD:SndSelect 
+[L]# 2024/10/26  11:04:05--321 ThreadID:1 >>  RoomID:1所有玩家选择英雄完成,进入游戏加载
+[L]# 2024/10/26  11:04:05--370 ThreadID:12 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--372 ThreadID:12 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--385 ThreadID:12 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--385 ThreadID:12 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--385 ThreadID:8 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--386 ThreadID:12 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--386 ThreadID:12 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--386 ThreadID:12 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--401 ThreadID:8 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--401 ThreadID:8 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--417 ThreadID:8 >>  RcvPack CMD:SndLoadPrg 
+[L]# 2024/10/26  11:04:05--433 ThreadID:8 >>  RcvPack CMD:ReqBattleStart 
+[L]# 2024/10/26  11:04:05--433 ThreadID:12 >>  RcvPack CMD:ReqBattleStart 
+[L]# 2024/10/26  11:04:05--449 ThreadID:1 >>  RoomID:1 所有玩家加载完成，进入战斗

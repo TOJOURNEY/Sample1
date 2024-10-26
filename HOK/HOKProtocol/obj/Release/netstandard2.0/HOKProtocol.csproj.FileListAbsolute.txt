@@ -1,0 +1,17 @@
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\HOKProtocol.deps.json
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\HOKProtocol.dll
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\HOKProtocol.pdb
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\KCPNet.dll
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\Kcp.dll
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\System.Memory.dll
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\System.Numerics.Vectors.dll
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\bin\Release\netstandard2.0\System.Buffers.dll
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\obj\Release\netstandard2.0\HOKProtocol.csproj.AssemblyReference.cache
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\obj\Release\netstandard2.0\HOKProtocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\obj\Release\netstandard2.0\HOKProtocol.AssemblyInfoInputs.cache
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\obj\Release\netstandard2.0\HOKProtocol.AssemblyInfo.cs
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\obj\Release\netstandard2.0\HOKProtocol.csproj.CoreCompileInputs.cache
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\obj\Release\netstandard2.0\HOKProtocol.csproj.CopyComplete
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\obj\Release\netstandard2.0\HOKProtocol.dll
+D:\BaiduSyncdisk\vs2019\HOK\HOKProtocol\obj\Release\netstandard2.0\HOKProtocol.pdb

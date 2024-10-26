@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLILhyuH7bSMjoZtfGF5yk52rHEb/q7oKh+IMFVnSOabIrhQVt67k2pKL4Ry3lsORKZ/UJ9mXnP2TQKtDxiNVg==",
+  "success": true,
+  "projectFilePath": "D:\\BaiduSyncdisk\\vs2019\\HOK\\HOKServer\\HOKServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

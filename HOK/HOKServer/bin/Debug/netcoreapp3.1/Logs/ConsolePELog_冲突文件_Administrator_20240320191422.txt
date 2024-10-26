@@ -1,0 +1,8 @@
+[L]# 2024/03/20  19:01:26--251 ThreadID:1 >>  CacheSvc Init Done
+[L]# 2024/03/20  19:01:26--266 ThreadID:1 >>  TimerSvc Init Done
+[L]# 2024/03/20  19:01:26--318 ThreadID:1 >>  Server Start...
+[L]# 2024/03/20  19:01:26--334 ThreadID:1 >>  NetSvc Init Done
+[L]# 2024/03/20  19:01:26--336 ThreadID:1 >>  LoginSys Init Done
+[L]# 2024/03/20  19:01:26--339 ThreadID:1 >>  MabthchSys Init Done
+[L]# 2024/03/20  19:01:26--340 ThreadID:1 >>  RoomSys Init Done
+[L]# 2024/03/20  19:01:26--340 ThreadID:1 >>  ServerRoot Init Done

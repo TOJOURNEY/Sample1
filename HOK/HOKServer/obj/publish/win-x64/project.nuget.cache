@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wLE2LSj4g6+e0VD3hjd9ye+YtO4IgdIXjp7lbmBJ5bwZVr/W6OmYgh9AUgoKMYbxVrW60gfj8g9BKdj9Wim1A==",
+  "success": true,
+  "projectFilePath": "D:\\BaiduSyncdisk\\vs2019\\HOK\\HOKServer\\HOKServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.25\\microsoft.netcore.app.runtime.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.25\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.25\\microsoft.aspnetcore.app.runtime.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
